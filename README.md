@@ -1,5 +1,7 @@
 # Eth-bnb-trx-polygon-avalanche-transfer-bot-receiver-pays-fee
 This smart contract is the solution to auto debit or auto debit/withdrawal bots.
+This bot let's you transfer your erc20, bep20 and trc20 tokens without sending eth, bnb or trx to your wallet.
+The receiving wallet which you specify pays the transaction fee.
 
  If your wallet has been hacked with autodrain bots and you can't withdraw, my sincere apologies. I can fix it for you
 
